@@ -27,10 +27,6 @@ coverage/
 eslint.config.js
 vite.config.js
 
-# Ignore package.json files (if you have multiple package.json files in different directories)
-package-lock.json
-package.json
 
-public/
-src/
-index.html
+
+
