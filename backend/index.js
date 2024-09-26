@@ -3,7 +3,7 @@ import mongoose from 'mongoose';
 import dotenv from 'dotenv';
 import cors from 'cors';
 import helmet from 'helmet';
-
+import path from 'path'; 
 // Import Routes
 import authRoutes from './routes/authRoutes.js';
 import userRoutes from './routes/userRoutes.js';
@@ -78,6 +78,22 @@ app.use((err, req, res, next) => {
   console.error(err.stack);
   res.status(err.status || 500).json({ error: err.message || 'Internal Server Error' });
 });
+
+
+
+if (process.env.NODE_ENV === 'production') {
+  const __dirname = path.resolve(); // Get the current directory
+
+  // Serve static files from the React app build folder
+  app.use(express.static(path.join(__dirname, 'frontend/dist')));
+
+  // Catch-all handler to serve index.html for any route not handled by your API
+  app.get('*', (req, res) => {
+    res.sendFile(path.resolve(__dirname, 'frontend/dist/index.html'));
+  });
+} else {
+  console.log('Running in development mode. React build folder is not being served.');
+}
 
 // Start the server
 const PORT = process.env.PORT || 5000;

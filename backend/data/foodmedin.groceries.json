@@ -4,8 +4,9 @@
   },
   "name": "Apples",
   "price": 2.99,
-  "image": "http://localhost:5000/images/apples.jpeg",
-  "quantity": 50
+  "image": "/images/apples.jpg",
+  "quantity": 50,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -13,8 +14,9 @@
   },
   "name": "Bananas",
   "price": 1.99,
-  "image": "http://localhost:5000/images/bananas.jpeg",
-  "quantity": 100
+  "image": "/images/bananas.jpg",
+  "quantity": 100,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -22,8 +24,9 @@
   },
   "name": "Oranges",
   "price": 3.49,
-  "image": "http://localhost:5000/images/oranges.jpeg",
-  "quantity": 40
+  "image": "/images/oranges.jpg",
+  "quantity": 40,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -31,8 +34,9 @@
   },
   "name": "Strawberries",
   "price": 5.99,
-  "image": "http://localhost:5000/images/strawberries.jpeg",
-  "quantity": 25
+  "image": "/images/strawberries.jpg",
+  "quantity": 25,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -40,8 +44,9 @@
   },
   "name": "Blueberries",
   "price": 4.99,
-  "image": "http://localhost:5000/images/blueberries.jpeg",
-  "quantity": 30
+  "image": "/images/blueberries.jpg",
+  "quantity": 30,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -49,8 +54,9 @@
   },
   "name": "Pineapples",
   "price": 4.49,
-  "image": "http://localhost:5000/images/pineapples.jpeg",
-  "quantity": 20
+  "image": "/images/pineapples.jpg",
+  "quantity": 20,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -58,8 +64,9 @@
   },
   "name": "Mangoes",
   "price": 3.99,
-  "image": "http://localhost:5000/images/mangoes.jpeg",
-  "quantity": 35
+  "image": "/images/mangoes.jpg",
+  "quantity": 35,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -67,8 +74,9 @@
   },
   "name": "Grapes",
   "price": 3.29,
-  "image": "http://localhost:5000/images/grapes.jpeg",
-  "quantity": 60
+  "image": "/images/grapes.jpg",
+  "quantity": 60,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -76,8 +84,9 @@
   },
   "name": "Kiwis",
   "price": 2.99,
-  "image": "http://localhost:5000/images/kiwis.jpeg",
-  "quantity": 25
+  "image": "/images/kiwis.jpg",
+  "quantity": 25,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -85,8 +94,9 @@
   },
   "name": "Peaches",
   "price": 3.49,
-  "image": "http://localhost:5000/images/peaches.jpeg",
-  "quantity": 30
+  "image": "/images/peaches.jpg",
+  "quantity": 30,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -94,8 +104,9 @@
   },
   "name": "Plums",
   "price": 4.19,
-  "image": "http://localhost:5000/images/plums.jpeg",
-  "quantity": 15
+  "image": "/images/plums.jpg",
+  "quantity": 15,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -103,8 +114,9 @@
   },
   "name": "Cherries",
   "price": 6.99,
-  "image": "http://localhost:5000/images/cherries.jpeg",
-  "quantity": 10
+  "image": "/images/cherries.jpg",
+  "quantity": 10,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -112,8 +124,9 @@
   },
   "name": "Pears",
   "price": 2.79,
-  "image": "http://localhost:5000/images/pears.jpeg",
-  "quantity": 40
+  "image": "/images/pears.jpg",
+  "quantity": 40,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -121,8 +134,9 @@
   },
   "name": "Watermelons",
   "price": 5.49,
-  "image": "http://localhost:5000/images/watermelons.jpeg",
-  "quantity": 12
+  "image": "/images/watermelons.jpg",
+  "quantity": 12,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -130,8 +144,9 @@
   },
   "name": "Raspberries",
   "price": 6.29,
-  "image": "http://localhost:5000/images/raspberries.jpeg",
-  "quantity": 22
+  "image": "/images/raspberries.jpg",
+  "quantity": 22,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -139,8 +154,9 @@
   },
   "name": "Blackberries",
   "price": 5.99,
-  "image": "http://localhost:5000/images/blackberries.jpeg",
-  "quantity": 18
+  "image": "/images/blackberries.jpg",
+  "quantity": 18,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -148,8 +164,9 @@
   },
   "name": "Lemons",
   "price": 2.49,
-  "image": "http://localhost:5000/images/lemons.jpeg",
-  "quantity": 45
+  "image": "/images/lemons.jpg",
+  "quantity": 45,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -157,8 +174,9 @@
   },
   "name": "Limes",
   "price": 2.19,
-  "image": "http://localhost:5000/images/limes.jpeg",
-  "quantity": 50
+  "image": "/images/limes.jpg",
+  "quantity": 50,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -166,8 +184,9 @@
   },
   "name": "Grapefruit",
   "price": 3.29,
-  "image": "http://localhost:5000/images/grapefruit.jpeg",
-  "quantity": 20
+  "image": "/images/grapefruit.jpg",
+  "quantity": 20,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -175,8 +194,9 @@
   },
   "name": "Apricots",
   "price": 4.99,
-  "image": "http://localhost:5000/images/apricots.jpeg",
-  "quantity": 15
+  "image": "/images/apricots.jpg",
+  "quantity": 15,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -184,8 +204,9 @@
   },
   "name": "Cantaloupe",
   "price": 4.49,
-  "image": "http://localhost:5000/images/cantaloupe.jpeg",
-  "quantity": 25
+  "image": "/images/cantaloupe.jpg",
+  "quantity": 25,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -193,8 +214,9 @@
   },
   "name": "Honeydew",
   "price": 4.19,
-  "image": "http://localhost:5000/images/honeydew.jpeg",
-  "quantity": 18
+  "image": "/images/honeydew.jpg",
+  "quantity": 18,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -202,8 +224,9 @@
   },
   "name": "Pomegranates",
   "price": 5.49,
-  "image": "http://localhost:5000/images/pomegranates.jpeg",
-  "quantity": 12
+  "image": "/images/pomegranates.jpg",
+  "quantity": 12,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -211,8 +234,9 @@
   },
   "name": "Avocados",
   "price": 2.99,
-  "image": "http://localhost:5000/images/avocados.jpeg",
-  "quantity": 30
+  "image": "/images/avocados.jpg",
+  "quantity": 30,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -220,8 +244,9 @@
   },
   "name": "Persimmons",
   "price": 3.99,
-  "image": "http://localhost:5000/images/persimmons.jpeg",
-  "quantity": 20
+  "image": "/images/persimmons.jpg",
+  "quantity": 20,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -229,8 +254,9 @@
   },
   "name": "Papayas",
   "price": 4.79,
-  "image": "http://localhost:5000/images/papayas.jpeg",
-  "quantity": 14
+  "image": "/images/papayas.jpg",
+  "quantity": 14,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -238,8 +264,9 @@
   },
   "name": "Fig",
   "price": 5.29,
-  "image": "http://localhost:5000/images/fig.jpeg",
-  "quantity": 22
+  "image": "/images/fig.jpg",
+  "quantity": 22,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -247,8 +274,9 @@
   },
   "name": "Tangerines",
   "price": 3.19,
-  "image": "http://localhost:5000/images/tangerines.jpeg",
-  "quantity": 30
+  "image": "/images/tangerines.jpg",
+  "quantity": 30,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -256,8 +284,9 @@
   },
   "name": "Guava",
   "price": 5.49,
-  "image": "http://localhost:5000/images/guava.jpeg",
-  "quantity": 16
+  "image": "/images/guava.jpg",
+  "quantity": 16,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -265,8 +294,9 @@
   },
   "name": "Mulberries",
   "price": 6.29,
-  "image": "http://localhost:5000/images/mulberries.jpeg",
-  "quantity": 21
+  "image": "/images/mulberries.jpg",
+  "quantity": 21,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -274,8 +304,9 @@
   },
   "name": "Coconut",
   "price": 3.99,
-  "image": "http://localhost:5000/images/coconut.jpeg",
-  "quantity": 12
+  "image": "/images/coconut.jpg",
+  "quantity": 12,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -283,8 +314,9 @@
   },
   "name": "Carrots",
   "price": 1.49,
-  "image": "http://localhost:5000/images/carrots.jpeg",
-  "quantity": 60
+  "image": "/images/carrots.jpg",
+  "quantity": 60,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -292,8 +324,9 @@
   },
   "name": "Broccoli",
   "price": 2.49,
-  "image": "http://localhost:5000/images/broccoli.jpeg",
-  "quantity": 35
+  "image": "/images/broccoli.jpg",
+  "quantity": 35,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -301,8 +334,9 @@
   },
   "name": "Spinach",
   "price": 3.99,
-  "image": "http://localhost:5000/images/spinach.jpeg",
-  "quantity": 20
+  "image": "/images/spinach.jpg",
+  "quantity": 20,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -310,8 +344,9 @@
   },
   "name": "Bell Peppers",
   "price": 2.99,
-  "image": "http://localhost:5000/images/bell_peppers.jpeg",
-  "quantity": 45
+  "image": "/images/bell_peppers.jpg",
+  "quantity": 45,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -319,8 +354,9 @@
   },
   "name": "Tomatoes",
   "price": 2.79,
-  "image": "http://localhost:5000/images/tomatoes.jpeg",
-  "quantity": 50
+  "image": "/images/tomatoes.jpg",
+  "quantity": 50,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -328,8 +364,9 @@
   },
   "name": "Cauliflower",
   "price": 2.59,
-  "image": "http://localhost:5000/images/cauliflower.jpeg",
-  "quantity": 30
+  "image": "/images/cauliflower.jpg",
+  "quantity": 30,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -337,8 +374,9 @@
   },
   "name": "Cucumbers",
   "price": 1.79,
-  "image": "http://localhost:5000/images/cucumbers.jpeg",
-  "quantity": 55
+  "image": "/images/cucumbers.jpg",
+  "quantity": 55,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -346,8 +384,9 @@
   },
   "name": "Zucchini",
   "price": 2.39,
-  "image": "http://localhost:5000/images/zucchini.jpeg",
-  "quantity": 40
+  "image": "/images/zucchini.jpg",
+  "quantity": 40,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -355,8 +394,9 @@
   },
   "name": "Kale",
   "price": 3.49,
-  "image": "http://localhost:5000/images/kale.jpeg",
-  "quantity": 25
+  "image": "/images/kale.jpg",
+  "quantity": 25,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -364,8 +404,9 @@
   },
   "name": "Green Beans",
   "price": 2.19,
-  "image": "http://localhost:5000/images/green_beans.jpeg",
-  "quantity": 50
+  "image": "/images/green_beans.jpg",
+  "quantity": 50,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -373,8 +414,9 @@
   },
   "name": "Onions",
   "price": 1.99,
-  "image": "http://localhost:5000/images/onions.jpeg",
-  "quantity": 60
+  "image": "/images/onions.jpg",
+  "quantity": 60,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -382,8 +424,9 @@
   },
   "name": "Garlic",
   "price": 2.79,
-  "image": "http://localhost:5000/images/garlic.jpeg",
-  "quantity": 40
+  "image": "/images/garlic.jpg",
+  "quantity": 40,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -391,8 +434,9 @@
   },
   "name": "Sweet Potatoes",
   "price": 2.99,
-  "image": "http://localhost:5000/images/sweet_potatoes.jpeg",
-  "quantity": 30
+  "image": "/images/sweet_potatoes.jpg",
+  "quantity": 30,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -400,8 +444,9 @@
   },
   "name": "Beets",
   "price": 3.19,
-  "image": "http://localhost:5000/images/beets.jpeg",
-  "quantity": 20
+  "image": "/images/beets.jpg",
+  "quantity": 20,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -409,8 +454,9 @@
   },
   "name": "Radishes",
   "price": 1.99,
-  "image": "http://localhost:5000/images/radishes.jpeg",
-  "quantity": 35
+  "image": "/images/radishes.jpg",
+  "quantity": 35,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -418,8 +464,9 @@
   },
   "name": "Eggplants",
   "price": 2.89,
-  "image": "http://localhost:5000/images/eggplants.jpeg",
-  "quantity": 30
+  "image": "/images/eggplants.jpg",
+  "quantity": 30,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -427,8 +474,9 @@
   },
   "name": "Mushrooms",
   "price": 3.59,
-  "image": "http://localhost:5000/images/mushrooms.jpeg",
-  "quantity": 25
+  "image": "/images/mushrooms.jpg",
+  "quantity": 25,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -436,8 +484,9 @@
   },
   "name": "Corn",
   "price": 1.89,
-  "image": "http://localhost:5000/images/corn.jpeg",
-  "quantity": 45
+  "image": "/images/corn.jpg",
+  "quantity": 45,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -445,8 +494,9 @@
   },
   "name": "Brussels Sprouts",
   "price": 2.69,
-  "image": "http://localhost:5000/images/brussels_sprouts.jpeg",
-  "quantity": 22
+  "image": "/images/brussels_sprouts.jpg",
+  "quantity": 22,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -454,8 +504,9 @@
   },
   "name": "Leeks",
   "price": 3.29,
-  "image": "http://localhost:5000/images/leeks.jpeg",
-  "quantity": 28
+  "image": "/images/leeks.jpg",
+  "quantity": 28,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -463,8 +514,9 @@
   },
   "name": "Pumpkins",
   "price": 4.19,
-  "image": "http://localhost:5000/images/pumpkins.jpeg",
-  "quantity": 15
+  "image": "/images/pumpkins.jpg",
+  "quantity": 15,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -472,8 +524,9 @@
   },
   "name": "Artichokes",
   "price": 3.89,
-  "image": "http://localhost:5000/images/artichokes.jpeg",
-  "quantity": 18
+  "image": "/images/artichokes.jpg",
+  "quantity": 18,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -481,8 +534,9 @@
   },
   "name": "Asparagus",
   "price": 4.59,
-  "image": "http://localhost:5000/images/asparagus.jpeg",
-  "quantity": 20
+  "image": "/images/asparagus.jpg",
+  "quantity": 20,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -490,8 +544,9 @@
   },
   "name": "Cabbage",
   "price": 2.19,
-  "image": "http://localhost:5000/images/cabbage.jpeg",
-  "quantity": 50
+  "image": "/images/cabbage.jpg",
+  "quantity": 50,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -499,8 +554,9 @@
   },
   "name": "Celery",
   "price": 1.89,
-  "image": "http://localhost:5000/images/celery.jpeg",
-  "quantity": 45
+  "image": "/images/celery.jpg",
+  "quantity": 45,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -508,8 +564,9 @@
   },
   "name": "Swiss Chard",
   "price": 3.49,
-  "image": "http://localhost:5000/images/swiss_chard.jpeg",
-  "quantity": 25
+  "image": "/images/swiss_chard.jpg",
+  "quantity": 25,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -517,8 +574,9 @@
   },
   "name": "Chard",
   "price": 2.89,
-  "image": "http://localhost:5000/images/chard.jpeg",
-  "quantity": 30
+  "image": "/images/chard.jpg",
+  "quantity": 30,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -526,8 +584,9 @@
   },
   "name": "Okra",
   "price": 3.19,
-  "image": "http://localhost:5000/images/okra.jpeg",
-  "quantity": 20
+  "image": "/images/okra.jpg",
+  "quantity": 20,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -535,8 +594,9 @@
   },
   "name": "Turnips",
   "price": 2.39,
-  "image": "http://localhost:5000/images/turnips.jpeg",
-  "quantity": 28
+  "image": "/images/turnips.jpg",
+  "quantity": 28,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -544,8 +604,9 @@
   },
   "name": "Arugula",
   "price": 4.49,
-  "image": "http://localhost:5000/images/arugula.jpeg",
-  "quantity": 15
+  "image": "/images/arugula.jpg",
+  "quantity": 15,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -553,8 +614,9 @@
   },
   "name": "Endive",
   "price": 3.79,
-  "image": "http://localhost:5000/images/endive.jpeg",
-  "quantity": 22
+  "image": "/images/endive.jpg",
+  "quantity": 22,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -562,8 +624,9 @@
   },
   "name": "Fennel",
   "price": 4.19,
-  "image": "http://localhost:5000/images/fennel.jpeg",
-  "quantity": 18
+  "image": "/images/fennel.jpg",
+  "quantity": 18,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -571,8 +634,9 @@
   },
   "name": "Bok Choy",
   "price": 3.59,
-  "image": "http://localhost:5000/images/bok_choy.jpeg",
-  "quantity": 20
+  "image": "/images/bok_choy.jpg",
+  "quantity": 20,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -580,8 +644,9 @@
   },
   "name": "Almonds",
   "price": 7.99,
-  "image": "http://localhost:5000/images/almonds.jpeg",
-  "quantity": 25
+  "image": "/images/almonds.jpg",
+  "quantity": 25,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -589,8 +654,9 @@
   },
   "name": "Walnuts",
   "price": 8.49,
-  "image": "http://localhost:5000/images/walnuts.jpeg",
-  "quantity": 20
+  "image": "/images/walnuts.jpg",
+  "quantity": 20,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -598,8 +664,9 @@
   },
   "name": "Cashews",
   "price": 6.99,
-  "image": "http://localhost:5000/images/cashews.jpeg",
-  "quantity": 30
+  "image": "/images/cashews.jpg",
+  "quantity": 30,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -607,8 +674,9 @@
   },
   "name": "Raisins",
   "price": 5.49,
-  "image": "http://localhost:5000/images/raisins.jpeg",
-  "quantity": 40
+  "image": "/images/raisins.jpg",
+  "quantity": 40,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -616,8 +684,9 @@
   },
   "name": "Dates",
   "price": 9.99,
-  "image": "http://localhost:5000/images/dates.jpeg",
-  "quantity": 15
+  "image": "/images/dates.jpg",
+  "quantity": 15,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -625,8 +694,9 @@
   },
   "name": "Pistachios",
   "price": 8.99,
-  "image": "http://localhost:5000/images/pistachios.jpeg",
-  "quantity": 18
+  "image": "/images/pistachios.jpg",
+  "quantity": 18,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -634,8 +704,9 @@
   },
   "name": "Apricots",
   "price": 7.49,
-  "image": "http://localhost:5000/images/apricotts.jpeg",
-  "quantity": 22
+  "image": "/images/apricotts.jpg",
+  "quantity": 22,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -643,8 +714,9 @@
   },
   "name": "Figs",
   "price": 6.29,
-  "image": "http://localhost:5000/images/figgs.jpeg",
-  "quantity": 25
+  "image": "/images/figgs.jpg",
+  "quantity": 25,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -652,8 +724,9 @@
   },
   "name": "Dried Cranberries",
   "price": 5.99,
-  "image": "http://localhost:5000/images/dried_cranberries.jpeg",
-  "quantity": 30
+  "image": "/images/dried_cranberries.jpg",
+  "quantity": 30,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -661,8 +734,9 @@
   },
   "name": "Mango Chunks",
   "price": 6.49,
-  "image": "http://localhost:5000/images/mango_chunks.jpeg",
-  "quantity": 20
+  "image": "/images/mango_chunks.jpg",
+  "quantity": 20,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -670,8 +744,9 @@
   },
   "name": "Goji Berries",
   "price": 7.79,
-  "image": "http://localhost:5000/images/goji_berries.jpeg",
-  "quantity": 15
+  "image": "/images/goji_berries.jpg",
+  "quantity": 15,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -679,8 +754,9 @@
   },
   "name": "Mulberries",
   "price": 8.29,
-  "image": "http://localhost:5000/images/mulberriess.jpeg",
-  "quantity": 18
+  "image": "/images/mulberriess.jpg",
+  "quantity": 18,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -688,8 +764,9 @@
   },
   "name": "Banana Chips",
   "price": 4.99,
-  "image": "http://localhost:5000/images/banana_chips.jpeg",
-  "quantity": 40
+  "image": "/images/banana_chips.jpg",
+  "quantity": 40,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -697,8 +774,9 @@
   },
   "name": "Tamarind",
   "price": 5.79,
-  "image": "http://localhost:5000/images/tamarind.jpeg",
-  "quantity": 25
+  "image": "/images/tamarind.jpg",
+  "quantity": 25,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -706,8 +784,9 @@
   },
   "name": "Sunflower Seeds",
   "price": 4.49,
-  "image": "http://localhost:5000/images/sunflower_seeds.jpeg",
-  "quantity": 30
+  "image": "/images/sunflower_seeds.jpg",
+  "quantity": 30,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -715,8 +794,9 @@
   },
   "name": "Pumpkin Seeds",
   "price": 5.29,
-  "image": "http://localhost:5000/images/pumpkin_seeds.jpeg",
-  "quantity": 20
+  "image": "/images/pumpkin_seeds.jpg",
+  "quantity": 20,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -724,8 +804,9 @@
   },
   "name": "Chia Seeds",
   "price": 7.29,
-  "image": "http://localhost:5000/images/chia_seeds.jpeg",
-  "quantity": 15
+  "image": "/images/chia_seeds.jpg",
+  "quantity": 15,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -733,8 +814,9 @@
   },
   "name": "Hemp Seeds",
   "price": 8.19,
-  "image": "http://localhost:5000/images/hemp_seeds.jpeg",
-  "quantity": 22
+  "image": "/images/hemp_seeds.jpg",
+  "quantity": 22,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -742,8 +824,9 @@
   },
   "name": "Poppy Seeds",
   "price": 5.99,
-  "image": "http://localhost:5000/images/poppy_seeds.jpeg",
-  "quantity": 18
+  "image": "/images/poppy_seeds.jpg",
+  "quantity": 18,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -751,8 +834,9 @@
   },
   "name": "Coconut Flakes",
   "price": 6.49,
-  "image": "http://localhost:5000/images/coconut_flakes.jpeg",
-  "quantity": 25
+  "image": "/images/coconut_flakes.jpg",
+  "quantity": 25,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -760,8 +844,9 @@
   },
   "name": "Cacao Nibs",
   "price": 7.79,
-  "image": "http://localhost:5000/images/cacao_nibs.jpeg",
-  "quantity": 15
+  "image": "/images/cacao_nibs.jpg",
+  "quantity": 15,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -769,8 +854,9 @@
   },
   "name": "Apricot Kernels",
   "price": 6.99,
-  "image": "http://localhost:5000/images/apricot_kernels.jpeg",
-  "quantity": 20
+  "image": "/images/apricot_kernels.jpg",
+  "quantity": 20,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -778,8 +864,9 @@
   },
   "name": "Dried Apples",
   "price": 4.89,
-  "image": "http://localhost:5000/images/dried_apples.jpeg",
-  "quantity": 30
+  "image": "/images/dried_apples.jpg",
+  "quantity": 30,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -787,8 +874,9 @@
   },
   "name": "Dried Pears",
   "price": 5.19,
-  "image": "http://localhost:5000/images/dried_pears.jpeg",
-  "quantity": 22
+  "image": "/images/dried_pears.jpg",
+  "quantity": 22,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -796,8 +884,9 @@
   },
   "name": "Dried Plums",
   "price": 6.29,
-  "image": "http://localhost:5000/images/dried_plums.jpeg",
-  "quantity": 18
+  "image": "/images/dried_plums.jpg",
+  "quantity": 18,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -805,8 +894,9 @@
   },
   "name": "Dried Peaches",
   "price": 5.79,
-  "image": "http://localhost:5000/images/dried_peaches.jpeg",
-  "quantity": 25
+  "image": "/images/dried_peaches.jpg",
+  "quantity": 25,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -814,8 +904,9 @@
   },
   "name": "Dried Apricots",
   "price": 7.99,
-  "image": "http://localhost:5000/images/dried_apricots.jpeg",
-  "quantity": 15
+  "image": "/images/dried_apricots.jpg",
+  "quantity": 15,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -823,8 +914,9 @@
   },
   "name": "Dried Mangoes",
   "price": 6.79,
-  "image": "http://localhost:5000/images/dried_mangoes.jpeg",
-  "quantity": 20
+  "image": "/images/dried_mangoes.jpg",
+  "quantity": 20,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -832,8 +924,9 @@
   },
   "name": "Dried Bananas",
   "price": 5.49,
-  "image": "http://localhost:5000/images/dried_bananas.jpeg",
-  "quantity": 30
+  "image": "/images/dried_bananas.jpg",
+  "quantity": 30,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -841,8 +934,9 @@
   },
   "name": "Dried Fig",
   "price": 6.89,
-  "image": "http://localhost:5000/images/dried_fig.jpeg",
-  "quantity": 22
+  "image": "/images/dried_fig.jpg",
+  "quantity": 22,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -850,8 +944,9 @@
   },
   "name": "Dried Cranberries",
   "price": 5.99,
-  "image": "http://localhost:5000/images/dried_cranberriess.jpeg",
-  "quantity": 25
+  "image": "/images/dried_cranberriess.jpg",
+  "quantity": 25,
+  "averageRating": 0
 },
 {
   "_id": {
@@ -859,6 +954,7 @@
   },
   "name": "Dried Cherries",
   "price": 7.29,
-  "image": "http://localhost:5000/images/dried_cherries.jpeg",
-  "quantity": 18
+  "image": "/images/dried_cherries.jpg",
+  "quantity": 18,
+  "averageRating": 0
 }]
